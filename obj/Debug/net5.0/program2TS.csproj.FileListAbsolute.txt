@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\program2TS\program2TS\bin\Debug\net5.0\program2TS.exe
+C:\Users\Student\source\repos\program2TS\program2TS\bin\Debug\net5.0\program2TS.deps.json
+C:\Users\Student\source\repos\program2TS\program2TS\bin\Debug\net5.0\program2TS.runtimeconfig.json
+C:\Users\Student\source\repos\program2TS\program2TS\bin\Debug\net5.0\program2TS.runtimeconfig.dev.json
+C:\Users\Student\source\repos\program2TS\program2TS\bin\Debug\net5.0\program2TS.dll
+C:\Users\Student\source\repos\program2TS\program2TS\bin\Debug\net5.0\ref\program2TS.dll
+C:\Users\Student\source\repos\program2TS\program2TS\bin\Debug\net5.0\program2TS.pdb
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.AssemblyInfo.cs
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.dll
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\ref\program2TS.dll
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.pdb
+C:\Users\Student\source\repos\program2TS\program2TS\obj\Debug\net5.0\program2TS.genruntimeconfig.cache
